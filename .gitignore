@@ -1,0 +1,5 @@
+bin
+build
+qrc_*
+ui_*
+Makefile
